@@ -1,0 +1,6 @@
+{
+  "name": "Daily Life Enhancement Hub",
+  "description": "An intelligent daily life companion featuring habit tracking, smart home ambience controls, daily flow schedule, and an AI personal assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
